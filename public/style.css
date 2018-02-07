@@ -10,4 +10,10 @@ h1 {
 
 img {
   width: 500px;
+  border: 10px solid white;
+}
+
+button {
+  height: 90px;
+  width: 180px;
 }
