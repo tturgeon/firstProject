@@ -38,3 +38,9 @@ function sleep(milliseconds) {
     }
   }
 }
+
+import bar from './bar';
+
+bar();
+
+console.log('hello 🐶');
